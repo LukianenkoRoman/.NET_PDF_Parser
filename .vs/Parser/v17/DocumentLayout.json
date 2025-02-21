@@ -1,0 +1,448 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\denus\\Desktop\\Parser \u2014 \u043A\u043E\u043F\u0438\u044F\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98F03997-3985-4D5F-8665-5E62B6CAF3D1}|Parser\\Parser.csproj|c:\\users\\denus\\desktop\\parser \u2014 \u043A\u043E\u043F\u0438\u044F\\parser\\infrastructure\\realization\\prefasadpars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F03997-3985-4D5F-8665-5E62B6CAF3D1}|Parser\\Parser.csproj|solutionrelative:parser\\infrastructure\\realization\\prefasadpars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F03997-3985-4D5F-8665-5E62B6CAF3D1}|Parser\\Parser.csproj|c:\\users\\denus\\desktop\\parser \u2014 \u043A\u043E\u043F\u0438\u044F\\parser\\infrastructure\\realization\\prefasadmail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F03997-3985-4D5F-8665-5E62B6CAF3D1}|Parser\\Parser.csproj|solutionrelative:parser\\infrastructure\\realization\\prefasadmail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F03997-3985-4D5F-8665-5E62B6CAF3D1}|Parser\\Parser.csproj|c:\\users\\denus\\desktop\\parser \u2014 \u043A\u043E\u043F\u0438\u044F\\parser\\infrastructure\\realization\\pdfparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F03997-3985-4D5F-8665-5E62B6CAF3D1}|Parser\\Parser.csproj|solutionrelative:parser\\infrastructure\\realization\\pdfparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F03997-3985-4D5F-8665-5E62B6CAF3D1}|Parser\\Parser.csproj|c:\\users\\denus\\desktop\\parser \u2014 \u043A\u043E\u043F\u0438\u044F\\parser\\infrastructure\\realization\\pathesdictionry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F03997-3985-4D5F-8665-5E62B6CAF3D1}|Parser\\Parser.csproj|solutionrelative:parser\\infrastructure\\realization\\pathesdictionry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F03997-3985-4D5F-8665-5E62B6CAF3D1}|Parser\\Parser.csproj|c:\\users\\denus\\desktop\\parser \u2014 \u043A\u043E\u043F\u0438\u044F\\parser\\infrastructure\\realization\\pastcollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F03997-3985-4D5F-8665-5E62B6CAF3D1}|Parser\\Parser.csproj|solutionrelative:parser\\infrastructure\\realization\\pastcollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F03997-3985-4D5F-8665-5E62B6CAF3D1}|Parser\\Parser.csproj|c:\\users\\denus\\desktop\\parser \u2014 \u043A\u043E\u043F\u0438\u044F\\parser\\infrastructure\\realization\\metadatagetter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F03997-3985-4D5F-8665-5E62B6CAF3D1}|Parser\\Parser.csproj|solutionrelative:parser\\infrastructure\\realization\\metadatagetter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F03997-3985-4D5F-8665-5E62B6CAF3D1}|Parser\\Parser.csproj|c:\\users\\denus\\desktop\\parser \u2014 \u043A\u043E\u043F\u0438\u044F\\parser\\infrastructure\\realization\\metadatafilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F03997-3985-4D5F-8665-5E62B6CAF3D1}|Parser\\Parser.csproj|solutionrelative:parser\\infrastructure\\realization\\metadatafilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F03997-3985-4D5F-8665-5E62B6CAF3D1}|Parser\\Parser.csproj|c:\\users\\denus\\desktop\\parser \u2014 \u043A\u043E\u043F\u0438\u044F\\parser\\infrastructure\\realization\\meinmailer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F03997-3985-4D5F-8665-5E62B6CAF3D1}|Parser\\Parser.csproj|solutionrelative:parser\\infrastructure\\realization\\meinmailer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F03997-3985-4D5F-8665-5E62B6CAF3D1}|Parser\\Parser.csproj|c:\\users\\denus\\desktop\\parser \u2014 \u043A\u043E\u043F\u0438\u044F\\parser\\infrastructure\\realization\\maileclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F03997-3985-4D5F-8665-5E62B6CAF3D1}|Parser\\Parser.csproj|solutionrelative:parser\\infrastructure\\realization\\maileclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F03997-3985-4D5F-8665-5E62B6CAF3D1}|Parser\\Parser.csproj|c:\\users\\denus\\desktop\\parser \u2014 \u043A\u043E\u043F\u0438\u044F\\parser\\infrastructure\\realization\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F03997-3985-4D5F-8665-5E62B6CAF3D1}|Parser\\Parser.csproj|solutionrelative:parser\\infrastructure\\realization\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F03997-3985-4D5F-8665-5E62B6CAF3D1}|Parser\\Parser.csproj|c:\\users\\denus\\desktop\\parser \u2014 \u043A\u043E\u043F\u0438\u044F\\parser\\infrastructure\\realization\\fasad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F03997-3985-4D5F-8665-5E62B6CAF3D1}|Parser\\Parser.csproj|solutionrelative:parser\\infrastructure\\realization\\fasad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F03997-3985-4D5F-8665-5E62B6CAF3D1}|Parser\\Parser.csproj|c:\\users\\denus\\desktop\\parser \u2014 \u043A\u043E\u043F\u0438\u044F\\parser\\infrastructure\\realization\\destinator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F03997-3985-4D5F-8665-5E62B6CAF3D1}|Parser\\Parser.csproj|solutionrelative:parser\\infrastructure\\realization\\destinator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F03997-3985-4D5F-8665-5E62B6CAF3D1}|Parser\\Parser.csproj|c:\\users\\denus\\desktop\\parser \u2014 \u043A\u043E\u043F\u0438\u044F\\parser\\infrastructure\\realization\\dbinteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F03997-3985-4D5F-8665-5E62B6CAF3D1}|Parser\\Parser.csproj|solutionrelative:parser\\infrastructure\\realization\\dbinteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F03997-3985-4D5F-8665-5E62B6CAF3D1}|Parser\\Parser.csproj|c:\\users\\denus\\desktop\\parser \u2014 \u043A\u043E\u043F\u0438\u044F\\parser\\infrastructure\\interfaces\\ipathesdictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F03997-3985-4D5F-8665-5E62B6CAF3D1}|Parser\\Parser.csproj|solutionrelative:parser\\infrastructure\\interfaces\\ipathesdictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F03997-3985-4D5F-8665-5E62B6CAF3D1}|Parser\\Parser.csproj|c:\\users\\denus\\desktop\\parser \u2014 \u043A\u043E\u043F\u0438\u044F\\parser\\infrastructure\\interfaces\\iparscollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F03997-3985-4D5F-8665-5E62B6CAF3D1}|Parser\\Parser.csproj|solutionrelative:parser\\infrastructure\\interfaces\\iparscollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F03997-3985-4D5F-8665-5E62B6CAF3D1}|Parser\\Parser.csproj|c:\\users\\denus\\desktop\\parser \u2014 \u043A\u043E\u043F\u0438\u044F\\parser\\infrastructure\\interfaces\\iparcer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F03997-3985-4D5F-8665-5E62B6CAF3D1}|Parser\\Parser.csproj|solutionrelative:parser\\infrastructure\\interfaces\\iparcer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F03997-3985-4D5F-8665-5E62B6CAF3D1}|Parser\\Parser.csproj|c:\\users\\denus\\desktop\\parser \u2014 \u043A\u043E\u043F\u0438\u044F\\parser\\infrastructure\\interfaces\\imetadatagetter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F03997-3985-4D5F-8665-5E62B6CAF3D1}|Parser\\Parser.csproj|solutionrelative:parser\\infrastructure\\interfaces\\imetadatagetter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F03997-3985-4D5F-8665-5E62B6CAF3D1}|Parser\\Parser.csproj|c:\\users\\denus\\desktop\\parser \u2014 \u043A\u043E\u043F\u0438\u044F\\parser\\infrastructure\\interfaces\\imetadatafilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F03997-3985-4D5F-8665-5E62B6CAF3D1}|Parser\\Parser.csproj|solutionrelative:parser\\infrastructure\\interfaces\\imetadatafilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F03997-3985-4D5F-8665-5E62B6CAF3D1}|Parser\\Parser.csproj|c:\\users\\denus\\desktop\\parser \u2014 \u043A\u043E\u043F\u0438\u044F\\parser\\infrastructure\\interfaces\\imeinmailer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F03997-3985-4D5F-8665-5E62B6CAF3D1}|Parser\\Parser.csproj|solutionrelative:parser\\infrastructure\\interfaces\\imeinmailer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F03997-3985-4D5F-8665-5E62B6CAF3D1}|Parser\\Parser.csproj|c:\\users\\denus\\desktop\\parser \u2014 \u043A\u043E\u043F\u0438\u044F\\parser\\infrastructure\\interfaces\\imaileclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F03997-3985-4D5F-8665-5E62B6CAF3D1}|Parser\\Parser.csproj|solutionrelative:parser\\infrastructure\\interfaces\\imaileclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F03997-3985-4D5F-8665-5E62B6CAF3D1}|Parser\\Parser.csproj|c:\\users\\denus\\desktop\\parser \u2014 \u043A\u043E\u043F\u0438\u044F\\parser\\infrastructure\\interfaces\\ilog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F03997-3985-4D5F-8665-5E62B6CAF3D1}|Parser\\Parser.csproj|solutionrelative:parser\\infrastructure\\interfaces\\ilog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F03997-3985-4D5F-8665-5E62B6CAF3D1}|Parser\\Parser.csproj|c:\\users\\denus\\desktop\\parser \u2014 \u043A\u043E\u043F\u0438\u044F\\parser\\infrastructure\\interfaces\\ifasad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F03997-3985-4D5F-8665-5E62B6CAF3D1}|Parser\\Parser.csproj|solutionrelative:parser\\infrastructure\\interfaces\\ifasad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F03997-3985-4D5F-8665-5E62B6CAF3D1}|Parser\\Parser.csproj|c:\\users\\denus\\desktop\\parser \u2014 \u043A\u043E\u043F\u0438\u044F\\parser\\infrastructure\\interfaces\\idestinator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F03997-3985-4D5F-8665-5E62B6CAF3D1}|Parser\\Parser.csproj|solutionrelative:parser\\infrastructure\\interfaces\\idestinator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F03997-3985-4D5F-8665-5E62B6CAF3D1}|Parser\\Parser.csproj|c:\\users\\denus\\desktop\\parser \u2014 \u043A\u043E\u043F\u0438\u044F\\parser\\infrastructure\\interfaces\\idbinteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F03997-3985-4D5F-8665-5E62B6CAF3D1}|Parser\\Parser.csproj|solutionrelative:parser\\infrastructure\\interfaces\\idbinteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98F03997-3985-4D5F-8665-5E62B6CAF3D1}|Parser\\Parser.csproj|c:\\users\\denus\\desktop\\parser \u2014 \u043A\u043E\u043F\u0438\u044F\\parser\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98F03997-3985-4D5F-8665-5E62B6CAF3D1}|Parser\\Parser.csproj|solutionrelative:parser\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PreFasadMail.cs",
+              "DocumentMoniker": "C:\\Users\\denus\\Desktop\\Parser \u2014 \u043A\u043E\u043F\u0438\u044F\\Parser\\Infrastructure\\Realization\\PreFasadMail.cs",
+              "RelativeDocumentMoniker": "Parser\\Infrastructure\\Realization\\PreFasadMail.cs",
+              "ToolTip": "C:\\Users\\denus\\Desktop\\Parser \u2014 \u043A\u043E\u043F\u0438\u044F\\Parser\\Infrastructure\\Realization\\PreFasadMail.cs",
+              "RelativeToolTip": "Parser\\Infrastructure\\Realization\\PreFasadMail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T09:51:36.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PdfParser.cs",
+              "DocumentMoniker": "C:\\Users\\denus\\Desktop\\Parser \u2014 \u043A\u043E\u043F\u0438\u044F\\Parser\\Infrastructure\\Realization\\PdfParser.cs",
+              "RelativeDocumentMoniker": "Parser\\Infrastructure\\Realization\\PdfParser.cs",
+              "ToolTip": "C:\\Users\\denus\\Desktop\\Parser \u2014 \u043A\u043E\u043F\u0438\u044F\\Parser\\Infrastructure\\Realization\\PdfParser.cs",
+              "RelativeToolTip": "Parser\\Infrastructure\\Realization\\PdfParser.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T09:51:30.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PathesDictionry.cs",
+              "DocumentMoniker": "C:\\Users\\denus\\Desktop\\Parser \u2014 \u043A\u043E\u043F\u0438\u044F\\Parser\\Infrastructure\\Realization\\PathesDictionry.cs",
+              "RelativeDocumentMoniker": "Parser\\Infrastructure\\Realization\\PathesDictionry.cs",
+              "ToolTip": "C:\\Users\\denus\\Desktop\\Parser \u2014 \u043A\u043E\u043F\u0438\u044F\\Parser\\Infrastructure\\Realization\\PathesDictionry.cs",
+              "RelativeToolTip": "Parser\\Infrastructure\\Realization\\PathesDictionry.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T09:51:03.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PastCollector.cs",
+              "DocumentMoniker": "C:\\Users\\denus\\Desktop\\Parser \u2014 \u043A\u043E\u043F\u0438\u044F\\Parser\\Infrastructure\\Realization\\PastCollector.cs",
+              "RelativeDocumentMoniker": "Parser\\Infrastructure\\Realization\\PastCollector.cs",
+              "ToolTip": "C:\\Users\\denus\\Desktop\\Parser \u2014 \u043A\u043E\u043F\u0438\u044F\\Parser\\Infrastructure\\Realization\\PastCollector.cs",
+              "RelativeToolTip": "Parser\\Infrastructure\\Realization\\PastCollector.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T09:50:51.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MetaDataGetter.cs",
+              "DocumentMoniker": "C:\\Users\\denus\\Desktop\\Parser \u2014 \u043A\u043E\u043F\u0438\u044F\\Parser\\Infrastructure\\Realization\\MetaDataGetter.cs",
+              "RelativeDocumentMoniker": "Parser\\Infrastructure\\Realization\\MetaDataGetter.cs",
+              "ToolTip": "C:\\Users\\denus\\Desktop\\Parser \u2014 \u043A\u043E\u043F\u0438\u044F\\Parser\\Infrastructure\\Realization\\MetaDataGetter.cs",
+              "RelativeToolTip": "Parser\\Infrastructure\\Realization\\MetaDataGetter.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T09:50:43.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MetadataFilter.cs",
+              "DocumentMoniker": "C:\\Users\\denus\\Desktop\\Parser \u2014 \u043A\u043E\u043F\u0438\u044F\\Parser\\Infrastructure\\Realization\\MetadataFilter.cs",
+              "RelativeDocumentMoniker": "Parser\\Infrastructure\\Realization\\MetadataFilter.cs",
+              "ToolTip": "C:\\Users\\denus\\Desktop\\Parser \u2014 \u043A\u043E\u043F\u0438\u044F\\Parser\\Infrastructure\\Realization\\MetadataFilter.cs",
+              "RelativeToolTip": "Parser\\Infrastructure\\Realization\\MetadataFilter.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T09:50:35.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MaileClient.cs",
+              "DocumentMoniker": "C:\\Users\\denus\\Desktop\\Parser \u2014 \u043A\u043E\u043F\u0438\u044F\\Parser\\Infrastructure\\Realization\\MaileClient.cs",
+              "RelativeDocumentMoniker": "Parser\\Infrastructure\\Realization\\MaileClient.cs",
+              "ToolTip": "C:\\Users\\denus\\Desktop\\Parser \u2014 \u043A\u043E\u043F\u0438\u044F\\Parser\\Infrastructure\\Realization\\MaileClient.cs",
+              "RelativeToolTip": "Parser\\Infrastructure\\Realization\\MaileClient.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T09:50:12.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PreFasadPars.cs",
+              "DocumentMoniker": "C:\\Users\\denus\\Desktop\\Parser \u2014 \u043A\u043E\u043F\u0438\u044F\\Parser\\Infrastructure\\Realization\\PreFasadPars.cs",
+              "RelativeDocumentMoniker": "Parser\\Infrastructure\\Realization\\PreFasadPars.cs",
+              "ToolTip": "C:\\Users\\denus\\Desktop\\Parser \u2014 \u043A\u043E\u043F\u0438\u044F\\Parser\\Infrastructure\\Realization\\PreFasadPars.cs",
+              "RelativeToolTip": "Parser\\Infrastructure\\Realization\\PreFasadPars.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAuwCsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T11:15:25.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Log.cs",
+              "DocumentMoniker": "C:\\Users\\denus\\Desktop\\Parser \u2014 \u043A\u043E\u043F\u0438\u044F\\Parser\\Infrastructure\\Realization\\Log.cs",
+              "RelativeDocumentMoniker": "Parser\\Infrastructure\\Realization\\Log.cs",
+              "ToolTip": "C:\\Users\\denus\\Desktop\\Parser \u2014 \u043A\u043E\u043F\u0438\u044F\\Parser\\Infrastructure\\Realization\\Log.cs",
+              "RelativeToolTip": "Parser\\Infrastructure\\Realization\\Log.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T09:50:08.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Fasad.cs",
+              "DocumentMoniker": "C:\\Users\\denus\\Desktop\\Parser \u2014 \u043A\u043E\u043F\u0438\u044F\\Parser\\Infrastructure\\Realization\\Fasad.cs",
+              "RelativeDocumentMoniker": "Parser\\Infrastructure\\Realization\\Fasad.cs",
+              "ToolTip": "C:\\Users\\denus\\Desktop\\Parser \u2014 \u043A\u043E\u043F\u0438\u044F\\Parser\\Infrastructure\\Realization\\Fasad.cs",
+              "RelativeToolTip": "Parser\\Infrastructure\\Realization\\Fasad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T09:50:06.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Destinator.cs",
+              "DocumentMoniker": "C:\\Users\\denus\\Desktop\\Parser \u2014 \u043A\u043E\u043F\u0438\u044F\\Parser\\Infrastructure\\Realization\\Destinator.cs",
+              "RelativeDocumentMoniker": "Parser\\Infrastructure\\Realization\\Destinator.cs",
+              "ToolTip": "C:\\Users\\denus\\Desktop\\Parser \u2014 \u043A\u043E\u043F\u0438\u044F\\Parser\\Infrastructure\\Realization\\Destinator.cs",
+              "RelativeToolTip": "Parser\\Infrastructure\\Realization\\Destinator.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T09:49:28.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DBInteract.cs",
+              "DocumentMoniker": "C:\\Users\\denus\\Desktop\\Parser \u2014 \u043A\u043E\u043F\u0438\u044F\\Parser\\Infrastructure\\Realization\\DBInteract.cs",
+              "RelativeDocumentMoniker": "Parser\\Infrastructure\\Realization\\DBInteract.cs",
+              "ToolTip": "C:\\Users\\denus\\Desktop\\Parser \u2014 \u043A\u043E\u043F\u0438\u044F\\Parser\\Infrastructure\\Realization\\DBInteract.cs",
+              "RelativeToolTip": "Parser\\Infrastructure\\Realization\\DBInteract.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T09:49:12.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IPathesDictionary.cs",
+              "DocumentMoniker": "C:\\Users\\denus\\Desktop\\Parser \u2014 \u043A\u043E\u043F\u0438\u044F\\Parser\\Infrastructure\\Interfaces\\IPathesDictionary.cs",
+              "RelativeDocumentMoniker": "Parser\\Infrastructure\\Interfaces\\IPathesDictionary.cs",
+              "ToolTip": "C:\\Users\\denus\\Desktop\\Parser \u2014 \u043A\u043E\u043F\u0438\u044F\\Parser\\Infrastructure\\Interfaces\\IPathesDictionary.cs",
+              "RelativeToolTip": "Parser\\Infrastructure\\Interfaces\\IPathesDictionary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T09:49:03.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IParsCollector.cs",
+              "DocumentMoniker": "C:\\Users\\denus\\Desktop\\Parser \u2014 \u043A\u043E\u043F\u0438\u044F\\Parser\\Infrastructure\\Interfaces\\IParsCollector.cs",
+              "RelativeDocumentMoniker": "Parser\\Infrastructure\\Interfaces\\IParsCollector.cs",
+              "ToolTip": "C:\\Users\\denus\\Desktop\\Parser \u2014 \u043A\u043E\u043F\u0438\u044F\\Parser\\Infrastructure\\Interfaces\\IParsCollector.cs",
+              "RelativeToolTip": "Parser\\Infrastructure\\Interfaces\\IParsCollector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T09:49:02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IParcer.cs",
+              "DocumentMoniker": "C:\\Users\\denus\\Desktop\\Parser \u2014 \u043A\u043E\u043F\u0438\u044F\\Parser\\Infrastructure\\Interfaces\\IParcer.cs",
+              "RelativeDocumentMoniker": "Parser\\Infrastructure\\Interfaces\\IParcer.cs",
+              "ToolTip": "C:\\Users\\denus\\Desktop\\Parser \u2014 \u043A\u043E\u043F\u0438\u044F\\Parser\\Infrastructure\\Interfaces\\IParcer.cs",
+              "RelativeToolTip": "Parser\\Infrastructure\\Interfaces\\IParcer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T09:49:00.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MeinMailer.cs",
+              "DocumentMoniker": "C:\\Users\\denus\\Desktop\\Parser \u2014 \u043A\u043E\u043F\u0438\u044F\\Parser\\Infrastructure\\Realization\\MeinMailer.cs",
+              "RelativeDocumentMoniker": "Parser\\Infrastructure\\Realization\\MeinMailer.cs",
+              "ToolTip": "C:\\Users\\denus\\Desktop\\Parser \u2014 \u043A\u043E\u043F\u0438\u044F\\Parser\\Infrastructure\\Realization\\MeinMailer.cs",
+              "RelativeToolTip": "Parser\\Infrastructure\\Realization\\MeinMailer.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T08:46:18.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IMetaDataGetter.cs",
+              "DocumentMoniker": "C:\\Users\\denus\\Desktop\\Parser \u2014 \u043A\u043E\u043F\u0438\u044F\\Parser\\Infrastructure\\Interfaces\\IMetaDataGetter.cs",
+              "RelativeDocumentMoniker": "Parser\\Infrastructure\\Interfaces\\IMetaDataGetter.cs",
+              "ToolTip": "C:\\Users\\denus\\Desktop\\Parser \u2014 \u043A\u043E\u043F\u0438\u044F\\Parser\\Infrastructure\\Interfaces\\IMetaDataGetter.cs",
+              "RelativeToolTip": "Parser\\Infrastructure\\Interfaces\\IMetaDataGetter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T09:48:59.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IMetadataFilter.cs",
+              "DocumentMoniker": "C:\\Users\\denus\\Desktop\\Parser \u2014 \u043A\u043E\u043F\u0438\u044F\\Parser\\Infrastructure\\Interfaces\\IMetadataFilter.cs",
+              "RelativeDocumentMoniker": "Parser\\Infrastructure\\Interfaces\\IMetadataFilter.cs",
+              "ToolTip": "C:\\Users\\denus\\Desktop\\Parser \u2014 \u043A\u043E\u043F\u0438\u044F\\Parser\\Infrastructure\\Interfaces\\IMetadataFilter.cs",
+              "RelativeToolTip": "Parser\\Infrastructure\\Interfaces\\IMetadataFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T09:48:55.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IMeinMailer.cs",
+              "DocumentMoniker": "C:\\Users\\denus\\Desktop\\Parser \u2014 \u043A\u043E\u043F\u0438\u044F\\Parser\\Infrastructure\\Interfaces\\IMeinMailer.cs",
+              "RelativeDocumentMoniker": "Parser\\Infrastructure\\Interfaces\\IMeinMailer.cs",
+              "ToolTip": "C:\\Users\\denus\\Desktop\\Parser \u2014 \u043A\u043E\u043F\u0438\u044F\\Parser\\Infrastructure\\Interfaces\\IMeinMailer.cs",
+              "RelativeToolTip": "Parser\\Infrastructure\\Interfaces\\IMeinMailer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T09:48:53.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IMaileClient.cs",
+              "DocumentMoniker": "C:\\Users\\denus\\Desktop\\Parser \u2014 \u043A\u043E\u043F\u0438\u044F\\Parser\\Infrastructure\\Interfaces\\IMaileClient.cs",
+              "RelativeDocumentMoniker": "Parser\\Infrastructure\\Interfaces\\IMaileClient.cs",
+              "ToolTip": "C:\\Users\\denus\\Desktop\\Parser \u2014 \u043A\u043E\u043F\u0438\u044F\\Parser\\Infrastructure\\Interfaces\\IMaileClient.cs",
+              "RelativeToolTip": "Parser\\Infrastructure\\Interfaces\\IMaileClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T09:48:51.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ILog.cs",
+              "DocumentMoniker": "C:\\Users\\denus\\Desktop\\Parser \u2014 \u043A\u043E\u043F\u0438\u044F\\Parser\\Infrastructure\\Interfaces\\ILog.cs",
+              "RelativeDocumentMoniker": "Parser\\Infrastructure\\Interfaces\\ILog.cs",
+              "ToolTip": "C:\\Users\\denus\\Desktop\\Parser \u2014 \u043A\u043E\u043F\u0438\u044F\\Parser\\Infrastructure\\Interfaces\\ILog.cs",
+              "RelativeToolTip": "Parser\\Infrastructure\\Interfaces\\ILog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T09:48:48.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IFasad.cs",
+              "DocumentMoniker": "C:\\Users\\denus\\Desktop\\Parser \u2014 \u043A\u043E\u043F\u0438\u044F\\Parser\\Infrastructure\\Interfaces\\IFasad.cs",
+              "RelativeDocumentMoniker": "Parser\\Infrastructure\\Interfaces\\IFasad.cs",
+              "ToolTip": "C:\\Users\\denus\\Desktop\\Parser \u2014 \u043A\u043E\u043F\u0438\u044F\\Parser\\Infrastructure\\Interfaces\\IFasad.cs",
+              "RelativeToolTip": "Parser\\Infrastructure\\Interfaces\\IFasad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T09:48:46.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IDestinator.cs",
+              "DocumentMoniker": "C:\\Users\\denus\\Desktop\\Parser \u2014 \u043A\u043E\u043F\u0438\u044F\\Parser\\Infrastructure\\Interfaces\\IDestinator.cs",
+              "RelativeDocumentMoniker": "Parser\\Infrastructure\\Interfaces\\IDestinator.cs",
+              "ToolTip": "C:\\Users\\denus\\Desktop\\Parser \u2014 \u043A\u043E\u043F\u0438\u044F\\Parser\\Infrastructure\\Interfaces\\IDestinator.cs",
+              "RelativeToolTip": "Parser\\Infrastructure\\Interfaces\\IDestinator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T09:48:45.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IDBInteract.cs",
+              "DocumentMoniker": "C:\\Users\\denus\\Desktop\\Parser \u2014 \u043A\u043E\u043F\u0438\u044F\\Parser\\Infrastructure\\Interfaces\\IDBInteract.cs",
+              "RelativeDocumentMoniker": "Parser\\Infrastructure\\Interfaces\\IDBInteract.cs",
+              "ToolTip": "C:\\Users\\denus\\Desktop\\Parser \u2014 \u043A\u043E\u043F\u0438\u044F\\Parser\\Infrastructure\\Interfaces\\IDBInteract.cs",
+              "RelativeToolTip": "Parser\\Infrastructure\\Interfaces\\IDBInteract.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T09:48:43.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\denus\\Desktop\\Parser \u2014 \u043A\u043E\u043F\u0438\u044F\\Parser\\Program.cs",
+              "RelativeDocumentMoniker": "Parser\\Program.cs",
+              "ToolTip": "C:\\Users\\denus\\Desktop\\Parser \u2014 \u043A\u043E\u043F\u0438\u044F\\Parser\\Program.cs",
+              "RelativeToolTip": "Parser\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T10:08:30.017Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
