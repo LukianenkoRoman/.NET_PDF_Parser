@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Aspose.Email" Version="25.1.0" />
+    <PackageReference Include="iTextSharp" Version="5.5.13.4" />
+    <PackageReference Include="NLog" Version="5.4.0" />
+    <PackageReference Include="PDFsharp" Version="6.2.0-preview-3" />
+    <PackageReference Include="Spire.PDF" Version="11.1.5" />
+    <PackageReference Include="System.Data.SQLite" Version="1.0.119" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="CorrectFiles\" />
+    <Folder Include="CorruptedFiles\" />
+    <Folder Include="PDF\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Infrastructure\Realization\PreFasadPars.cs" />
+  </ItemGroup>
+
+</Project>
